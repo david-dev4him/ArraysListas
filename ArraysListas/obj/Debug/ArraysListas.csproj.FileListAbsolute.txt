@@ -1,0 +1,7 @@
+C:\David\David-2022\FAEL\ProgComputadores\ArraysListas\ArraysListas\bin\Debug\ArraysListas.exe.config
+C:\David\David-2022\FAEL\ProgComputadores\ArraysListas\ArraysListas\bin\Debug\ArraysListas.exe
+C:\David\David-2022\FAEL\ProgComputadores\ArraysListas\ArraysListas\bin\Debug\ArraysListas.pdb
+C:\David\David-2022\FAEL\ProgComputadores\ArraysListas\ArraysListas\obj\Debug\ArraysListas.csprojAssemblyReference.cache
+C:\David\David-2022\FAEL\ProgComputadores\ArraysListas\ArraysListas\obj\Debug\ArraysListas.csproj.CoreCompileInputs.cache
+C:\David\David-2022\FAEL\ProgComputadores\ArraysListas\ArraysListas\obj\Debug\ArraysListas.exe
+C:\David\David-2022\FAEL\ProgComputadores\ArraysListas\ArraysListas\obj\Debug\ArraysListas.pdb
